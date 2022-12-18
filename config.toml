@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://vmotnoya.github.io/'
 languageCode = 'en-us'
 title = "Victor Montoya's Personal Site"
 theme = "aether"
