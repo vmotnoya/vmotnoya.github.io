@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>montoya on Victor Montoya's Personal Site</title><link>https://vmotnoya.github.io/tags/montoya/</link><description>Victor Montoya's Personal Site (montoya)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 17:55:06 -0700</lastBuildDate><atom:link href="https://vmotnoya.github.io/tags/montoya/index.xml" rel="self" type="application/rss+xml"/><item><title>My Resume</title><link>https://vmotnoya.github.io/posts/my-first-post/</link><pubDate>Mon, 19 Dec 2022 17:55:06 -0700</pubDate><guid>https://vmotnoya.github.io/posts/my-first-post/</guid><description>&lt;pre>&lt;code> @page { size: 8.5in 11in; margin: 0.5in } p { margin-bottom: 0.1in; direction: ltr; line-height: 115%; text-align: left; orphans: 2; widows: 2; background: transparent } a:link { color: #0000ff; text-decoration: underline } a:visited { color: #800000; so-language: zxx; text-decoration: underline }
+&lt;/code>&lt;/pre>
+&lt;p>&lt;strong>VICTOR MONTOYA&lt;/strong>&lt;/p>
+&lt;p>Gilbert, AZ | victor.montoya at gmx.com| (five two zero) 234-7800&lt;/p>
+&lt;p>&lt;strong>SUMMARY OF QUALIFICATIONS&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>14 years of working as a Security Analyst and Engineer&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>7+ years of network and enterprise level system administration experience&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>4+ years of experience of, Active Directory, Exchange support and Change Management&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>EXPERIENCE&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Senior Security Analyst&lt;/strong> 2019 – Present&lt;/p>
+&lt;p>Arizona Department of Revenue&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Work as the Senior Security Analyst at the Arizona Department of Revenue&amp;rsquo;s (AZDOR) Security Operations Center (SOC). I&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Provided continuous monitoring, via Spunk System Information Event Management (SIEM), of network traffic, Active Directory, endpoints, servers, routers and switches for malicious activity.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deployed new security tools into the AZDOR enterprise, namely Microsoft&amp;rsquo;s Windows Credential Guard and a Honeypot.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Completed forensic analysis of process trees deemed suspicious by the Crowdstrike endpoint security system.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Developed Incident Response processes as well as completed Incident Responses to suspected comprises all the way to completion.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Forensically analyzed phishing emails.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Wrote numerous lessons learned reports on incidents I responded to, security violations I investigated and the results of security tabletop exercises I organized.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Completed Wireshark packet analysis of traffic flagged as malicious by our Palo Alto firewall.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Reviewed and approved vulnerability scans as well as mitigation plans from system administrators on vulnerabilities that they cannot close.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>I have successfully completed all these duties working from home since 2019.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Security Engineer&lt;/strong> 2017 – 2018&lt;/p>
+&lt;p>Phoenix Staff&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Completed Engineering and Functionality Troubleshooting on 8 Cisco ASA Firewalls for the Arizona DES (Department of Economic Security) enterprise.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Managed DES’ McAfee Webgateway Web Proxy&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Completed Vulnerability Scanning and Remediation for DES enterprise of 10,000 network nodes using Tenable Vulnerability Scanner.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Completed end to end Incident Response&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deployed new security application to the enterprise like Forcepoint cloud based web proxy solution and Forescout an IT (Information Technology) asset and network management system.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Configured DNS Records to migrate public facing Web Servers behind CloudFlare Web Application Firewall (WAP)&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Began rebuilding of McAfee Nitro SIEM (Security Information and Event Management) system.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deployed and administrated Secureworks SaaS (Security as a Service) solution.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Administration of Cisco ICE (Identity Service Engine) identity access management and configuration management system.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Security Network Manager II&lt;/strong> 2015 – 2016&lt;/p>
+&lt;p>Dell Inc.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Administrator of McAfee ePO (ePolicy Orchestrator) an Enterprise Security Endpoint Orchestrator on the Honeywell enterprise.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Created and managed policies for the security components administered by the Security Orchestrator such as SiteAdvisor (a web content filtering program), Drive Encryption, Host Intrusion Prevention System (HIPS), Virus Scan Enterprise (VSE), Linux Anti-Virus, Macintosh Endpoint Protection (MEP [a security suite for Macintoshes]) and Management of Native Encryption (MNE [centrally manages built in drive encryption programs like BitLocker and FileVault]).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deployed patches and updates to the security components.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Began training on McAfee Application Control (MAC).&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Worked on Honeywell Enterprise that consisted of 100,000 workstations and 10,000 servers.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Security Analyst&lt;/strong> 2012 - 2015&lt;/p>
+&lt;p>Phacil Inc.&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Lead Administrator of the ePO Security Orchestrator for the Immigration and Customs Enforcement (ICE) agency.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Troubleshot issues of all the security components administered by the Security Orchestrator such as the Firewall, HIPS, VSE, and DLP (Data Loss Prevention). This all facilitates ICE’s Cyber Incident Response Team (CIRT) operations.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Analyzed event logs, firewall and HIPS policies, and performed McAfee Tag administration.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Deployed Windows Patches using IBM’s Big Fix deployment tool, and completed Big Fix maintenance tasks.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Enforced government system policy and processes and formulated response/recommendations to customers. Such as deploying custom signatures in response to security incidents and carrying remediation actions to compromised servers.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>ICE enterprise I worked consisted of 40,000 workstations and 2,000 servers.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Customer Support Representative Tech II&lt;/strong> 2011 – 2012&lt;/p>
+&lt;p>Stara Technologies, Gilbert, Arizona&lt;/p>
+&lt;ul>
+&lt;li>Provided System Administration of LAN (Local Area Network) and Servers running on the PGST (Persistent Ground Surveillance Tower).&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Information Assurance Analyst&lt;/strong> 2010 – 2011&lt;/p>
+&lt;p>TASC, Ft. Huachuca, Arizona&lt;/p>
+&lt;ul>
+&lt;li>Reviewed network and system vulnerability scans. Wrote POA&amp;amp;Ms (Plan of Action and Mitigation) Reports that detailed the amount of risk a detected vulnerability posed, and how it was mitigated. Certified that Classified IT DoD (Department of Defense) systems complied with multiple security operation standards and policies.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Computer Security Analyst II&lt;/strong> 2009 –2010&lt;/p>
+&lt;p>Northrop Grumman, Ft. Huachuca, Arizona&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Performed Tier 1 triage in a CIRT for security incidents along with routing and tracking of all security related inquires and other issues.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Completed analysis of traffic that tripped signatures in the NIDS (Network Intrusion Detection System) for RCERT-CONUS (Regional Computer Emergency Response Team-Continental United States). Reviewed security events and logs created by NIDS for evidence of ports scans, SQL injections, zero day attacks, Linux based attacks, brute force attempts, and signs of bot net infections.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Coordinated with multiple government departments and agencies to gather information regarding intrusion events, threat indications and warning information. Prioritized multiple tasks and formulated responses and recommendations to on site administrators reacting to the security events. Studied and applied government intelligence and systems processes. Also participated in COOP (Continuation of Operations Plan) exercises.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Continually tracked methodologies, tactics and techniques of hackers to complete network even analysis and threat analysis duties. Used BMC Remedy System throughout the incident response process.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Functional Analyst II&lt;/strong> 2006– 2009&lt;/p>
+&lt;p>Mantech, Ft. Huachuca, Arizona&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Executed interoperability testing for all HAIPE (High Assurance Internet Protocol Encryption) devices in use by the DoD.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Built a Classified LAN (Local Area Network) from the ground up.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Performed all network and system security on this Classified LAN.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Interoperability testing included packet analysis, LAN/WAN and voice/data performance using a SmartBits analyzer. Completed this testing with two other remote sites through secure remote access tunnels.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Additionally held the responsibility of Security Officer. Maintained at all time a Chain of Custody for the extremely sensitive CIKs (Cryptographic Ignition Key) that were in use for this testing.&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Classified domain comprised of: Active Directory Domain Controller, Microsoft Exchange Server, 40 HAIPEs (VPNs), 15 workstations, VoIP server, 10 Tandberg VTCs, and Sectera Edge Classified smartphones.&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>EDUCATION AND CERTIFICATIONS&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Metasploit Certification&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Rapid 7&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Linux Essentials Certification&lt;/strong> &lt;strong>7&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>LPI (Linux Professional Institute)&lt;/strong>, LPI000374283 lpi.org/v/LPI000374283/r29ncqwk5c&lt;/p>
+&lt;p>Lifetime Certification&lt;/p>
+&lt;p>&lt;strong>Security + Certification&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>CompTIA,&lt;/strong> Candidate ID SR3462611 Registration Number Q51DTT54F1&lt;/p>
+&lt;p>Lifetime Certification&lt;/p>
+&lt;p>&lt;strong>Business Administration, Associate Degree&lt;/strong>&lt;/p>
+&lt;p>&lt;strong>Cochise College&lt;/strong>, Sierra Vista, Arizona&lt;/p>
+&lt;p>&lt;strong>SKILL SUMMARY&lt;/strong>&lt;/p>
+&lt;p>Host Intrusion Detections System (HIDS), Linux, Management of Native Encryption, Drive Encryption, Security7 Information and Event Management (SIEM), McAfee ePolicy Orchestrator (ePO), McAfee Application Control (MAC), Windows Server 2003/2008/2012, IIS 6.0,Microsoft Exchange Server, Blackberry Server, Cisco IOS, Wireshark, Cisco VoIP, Microsoft Office Suite, Retina (Network Vulnerability Scanner), System Vulnerability Scanner, HAIPE (High Assurance Internet Protocol Encryption) Devices, Switches, Routers, Smartbits (Network Performance Analyzer), Wi-Fi, BMC Remedy, McAfee WebGateway, Tenable, Cisco ASA, Forcepoint, Forescout, Crowdstrike, Splunk&lt;/p></description></item></channel></rss>
